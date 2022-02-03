@@ -1,0 +1,5 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+MySQL = "39abe10b-433b-5dbd-92d4-e302a9df00cd"
